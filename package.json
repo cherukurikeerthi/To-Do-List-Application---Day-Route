@@ -1,0 +1,9 @@
+{
+  "name": "day-route-todo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local task list with revision notes and an AI study helper.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
